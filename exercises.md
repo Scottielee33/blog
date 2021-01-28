@@ -53,4 +53,4 @@ comments: true
 [lunge]: assets/img/lunge.jpg  
 [split squat]: assets/img/split squat.jpg  
 [chest fly]: assets/img/chest fly.jpg
-[jump squat]; assets/img/jump squat.gif
+[jump squat]: assets/img/jump squat.gif
