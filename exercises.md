@@ -14,10 +14,12 @@ comments: true
   *_Jump Squat_  
   ![pic][jump squat]
 * **Pull Exercises Variations**
-  * _Banded/Bodyweight Pul lup_  
+  * _Banded/Bodyweight Pull up_  
   ![pic][banded pull up]
   * _Lat Pulldown_  
-  ![pic][lat pulldown]
+  ![pic][lat pulldown]  
+  * _Rear Lat Pulldown_  
+  ![pic][rear lat pulldown]
 * **Push Exercises Variations**
   * _Push Up_  
   ![pic][push up]
@@ -54,3 +56,4 @@ comments: true
 [split squat]: assets/img/split squat.jpg  
 [chest fly]: assets/img/chest fly.jpg
 [jump squat]: assets/img/jump squat.gif
+[rear lat pulldown]: assets/img/rear lat pulldown.jpg
