@@ -10,7 +10,9 @@ comments: true
   * _Wall-Ball Squat_  
   ![pic][wall-ball squat]
   * _Goblet Squat_  
-  ![pic][goblet squat]
+  ![pic][goblet squat]  
+  *_Jump Squat_  
+  ![pic][jump squat]
 * **Pull Exercises Variations**
   * _Banded/Bodyweight Pul lup_  
   ![pic][banded pull up]
@@ -51,3 +53,4 @@ comments: true
 [lunge]: assets/img/lunge.jpg  
 [split squat]: assets/img/split squat.jpg  
 [chest fly]: assets/img/chest fly.jpg
+[jump squat]; assets/img/jump squat.gif
