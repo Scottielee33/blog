@@ -11,7 +11,7 @@ comments: true
   ![pic][wall-ball squat]
   * _Goblet Squat_  
   ![pic][goblet squat]  
-  *_Jump Squat_  
+  * _Jump Squat_  
   ![pic][jump squat]
 * **Pull Exercises Variations**
   * _Banded/Bodyweight Pull up_  
