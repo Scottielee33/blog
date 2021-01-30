@@ -1,9 +1,7 @@
 ---
-layout: post
+layout: page
 title: January
 subtitle: What have I done everyday
-tags: [sports, training, School]
-comments: true
 ---
 
 # Day 28
