@@ -50,21 +50,21 @@ comments: true
 
 ## 2. <a name='PullExercisesVariations'></a>Pull Exercises Variations
 
-### 2.1. <a name='BandedBodyweightPullup'></a>Banded/Bodyweight Pull up_
+### 2.1. <a name='BandedBodyweightPullup'></a>Banded/Bodyweight Pull up
 
 ![pic][banded pull up]
 
-### 2.2. <a name='LatPulldown'></a>Lat Pulldown_  
+### 2.2. <a name='LatPulldown'></a>Lat Pulldown  
 
 ![pic][lat pulldown]  
 
-### 2.3. <a name='RearLatPulldown'></a>Rear Lat Pulldown_  
+### 2.3. <a name='RearLatPulldown'></a>Rear Lat Pulldown
 
 ![pic][rear lat pulldown]
 
 ## 3. <a name='PushExercisesVariations'></a>Push Exercises Variations*
 
-### 3.1. <a name='PushUp'></a>Push Up_  
+### 3.1. <a name='PushUp'></a>Push Up
 
 ![pic][push up]
 
