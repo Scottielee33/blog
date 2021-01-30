@@ -7,21 +7,26 @@ comments: true
 ---
 
 <!-- vscode-markdown-toc -->
-* 1. [Wall-Ball Squat](#Wall-BallSquat)
-* 2. [Goblet Squat](#GobletSquat)
-* 3. [Jump Squat](#JumpSquat)
-* 4. [Banded/Bodyweight Pull up_](#BandedBodyweightPullup_)
-* 5. [Lat Pulldown_](#LatPulldown_)
-* 6. [Rear Lat Pulldown_](#RearLatPulldown_)
-* 7. [Push Up_](#PushUp_)
-* 8. [Dumbbell Bench Press](#DumbbellBenchPress)
-* 9. [Machine Chest Press](#MachineChestPress)
-* 10. [Dumbbell/Banded Shoulder Press](#DumbbellBandedShoulderPress)
-* 11. [Chest Fly](#ChestFly)
-* 12. [Bent Over Row Dumbell/Banded](#BentOverRowDumbellBanded)
-* 13. [Unilateral Dumbbell Bent Over Row](#UnilateralDumbbellBentOverRow)
-* 14. [Lunge](#Lunge)
-* 15. [Split Squat](#SplitSquat)
+* 1. [Squat Variations](#SquatVariations)
+	* 1.1. [Wall-Ball Squat](#Wall-BallSquat)
+	* 1.2. [Goblet Squat](#GobletSquat)
+	* 1.3. [Jump Squat](#JumpSquat)
+* 2. [Pull Exercises Variations](#PullExercisesVariations)
+	* 2.1. [Banded/Bodyweight Pull up_](#BandedBodyweightPullup_)
+	* 2.2. [Lat Pulldown_](#LatPulldown_)
+	* 2.3. [Rear Lat Pulldown_](#RearLatPulldown_)
+* 3. [Push Exercises Variations*](#PushExercisesVariations)
+	* 3.1. [Push Up_](#PushUp_)
+	* 3.2. [Dumbbell Bench Press](#DumbbellBenchPress)
+	* 3.3. [Machine Chest Press](#MachineChestPress)
+	* 3.4. [Dumbbell/Banded Shoulder Press](#DumbbellBandedShoulderPress)
+	* 3.5. [Chest Fly](#ChestFly)
+* 4. [Row Exercise Variations](#RowExerciseVariations)
+	* 4.1. [Bent Over Row Dumbell/Banded](#BentOverRowDumbellBanded)
+	* 4.2. [Unilateral Dumbbell Bent Over Row](#UnilateralDumbbellBentOverRow)
+* 5. [Lunge Exercise Variations](#LungeExerciseVariations)
+	* 5.1. [Lunge](#Lunge)
+	* 5.2. [Split Squat](#SplitSquat)
 
 <!-- vscode-markdown-toc-config
 	numbering=true
@@ -29,72 +34,71 @@ comments: true
 	/vscode-markdown-toc-config -->
 <!-- /vscode-markdown-toc -->---
 
-# Squat Variations
+##  1. <a name='SquatVariations'></a>Squat Variations
 
-##  1. <a name='Wall-BallSquat'></a>Wall-Ball Squat
+###  1.1. <a name='Wall-BallSquat'></a>Wall-Ball Squat
 
 ![pic][wall-ball squat]
 
-##  2. <a name='GobletSquat'></a>Goblet Squat  
+###  1.2. <a name='GobletSquat'></a>Goblet Squat  
 
 ![pic][goblet squat]  
 
-##  3. <a name='JumpSquat'></a>Jump Squat
+###  1.3. <a name='JumpSquat'></a>Jump Squat
 
 ![pic][jump squat]
 
-# Pull Exercises Variations
+##  2. <a name='PullExercisesVariations'></a>Pull Exercises Variations
 
-##  4. <a name='BandedBodyweightPullup_'></a>Banded/Bodyweight Pull up_
+###  2.1. <a name='BandedBodyweightPullup_'></a>Banded/Bodyweight Pull up_
 
 ![pic][banded pull up]
 
-##  5. <a name='LatPulldown_'></a>Lat Pulldown_  
+###  2.2. <a name='LatPulldown_'></a>Lat Pulldown_  
 
 ![pic][lat pulldown]  
 
-##  6. <a name='RearLatPulldown_'></a>Rear Lat Pulldown_  
+###  2.3. <a name='RearLatPulldown_'></a>Rear Lat Pulldown_  
 
 ![pic][rear lat pulldown]
 
-# Push Exercises Variations*
+##  3. <a name='PushExercisesVariations'></a>Push Exercises Variations*
 
-##  7. <a name='PushUp_'></a>Push Up_  
-
+###  3.1. <a name='PushUp_'></a>Push Up_  
 
 ![pic][push up]
 
-##  8. <a name='DumbbellBenchPress'></a>Dumbbell Bench Press
+###  3.2. <a name='DumbbellBenchPress'></a>Dumbbell Bench Press
 
 ![pic][dumbbell bench press]
 
-##  9. <a name='MachineChestPress'></a>Machine Chest Press
+###  3.3. <a name='MachineChestPress'></a>Machine Chest Press
 
 ![pic][machine chest press]
 
-##  10. <a name='DumbbellBandedShoulderPress'></a>Dumbbell/Banded Shoulder Press  
+###  3.4. <a name='DumbbellBandedShoulderPress'></a>Dumbbell/Banded Shoulder Press  
 
 ![pic][dumbbell shoulder press]  
 
-##  11. <a name='ChestFly'></a>Chest Fly
+###  3.5. <a name='ChestFly'></a>Chest Fly
 
 ![pic][chest fly]
-# Row Exercise Variations**
+##  4. <a name='RowExerciseVariations'></a>Row Exercise Variations
   
-##  12. <a name='BentOverRowDumbellBanded'></a>Bent Over Row Dumbell/Banded
+###  4.1. <a name='BentOverRowDumbellBanded'></a>Bent Over Row Dumbell/Banded
 ![pic][bent over band row]
 
-##  13. <a name='UnilateralDumbbellBentOverRow'></a>Unilateral Dumbbell Bent Over Row
+###  4.2. <a name='UnilateralDumbbellBentOverRow'></a>Unilateral Dumbbell Bent Over Row
 
 ![pic][unilateral dumbbell bent over row]
 
-# Lunge Exercise Variations
+##  5. <a name='LungeExerciseVariations'></a>Lunge Exercise Variations
 
-##  14. <a name='Lunge'></a>Lunge
+###  5.1. <a name='Lunge'></a>Lunge
 
 ![pic][lunge]
 
-##  15. <a name='SplitSquat'></a>Split Squat
+###  5.2. <a name='SplitSquat'></a>Split Squat
 
 ![pic][split squat]
 
