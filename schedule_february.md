@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: Page
 title: Training
 subtitle: For the month February
 tags: [sports, training]
