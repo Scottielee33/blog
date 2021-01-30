@@ -11,10 +11,10 @@ author: Scottie Lee
 navbar-links:
   Fitness:
     - Exercises: "exercises"
-    - Schedule: "schedule"
-      - February: "schedule_february"
-    - Diary: "diary"
-      - January: "january"
+  Schedule: "schedule"
+    - February: "schedule_february"
+  Diary: "diary"
+    - January: "january"
 
 # Remove this parameter if you don't want an image in the navbar
 avatar: "assets/img/Avatar_Scottie.jpg"
