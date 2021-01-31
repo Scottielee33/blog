@@ -58,3 +58,9 @@ Beautifull jekyll code proberen te veranderen om de uiterlijk van de site naar m
 
 ## School
 *FOCS:* Inductie geleerd
+
+# Day 31
+
+## Training
+* Jump squats, 12x
+* Push Ups, 12x
