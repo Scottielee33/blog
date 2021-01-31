@@ -44,7 +44,7 @@ comments: true
 
 ![pic][jump squat]
 
-## Exercises Variations
+## Pull Exercises Variations
 
 ### Banded/Bodyweight Pull up
 
@@ -58,11 +58,19 @@ comments: true
 
 ![pic][rear lat pulldown]
 
-## Push Exercises Variations*
+## Push Exercises Variations
 
 ### Push Up
 
 ![pic][push up]
+
+### Tricep Pushdown
+
+![pic][tricep pushdown]
+
+### Reverse Grip Tricep Pushdown
+
+![pic][reverse grip tricep pushdown]
 
 ### Dumbbell Bench Press
 
@@ -115,3 +123,5 @@ comments: true
 [chest fly]: assets/img/chest fly.jpg
 [jump squat]: assets/img/jump squat.gif
 [rear lat pulldown]: assets/img/rear lat pulldown.jpg
+[tricep pushdown]: assets/img/tricep pushdown.jpg
+[reverse grip trciep pushdown]: assets/img/reverse grip tricep pushdown.png
