@@ -5,6 +5,30 @@ subtitle: Made by Scottie Lee
 tags: [sports, training]
 comments: true
 ---
+<!-- TOC -->
+
+- [Squat Variations](#squat-variations)
+  - [Wall-Ball Squat](#wall-ball-squat)
+  - [Goblet Squat](#goblet-squat)
+  - [Jump Squat](#jump-squat)
+- [Exercises Variations](#exercises-variations)
+  - [Banded/Bodyweight Pull up](#bandedbodyweight-pull-up)
+  - [Lat Pulldown](#lat-pulldown)
+  - [Rear Lat Pulldown](#rear-lat-pulldown)
+- [Push Exercises Variations*](#push-exercises-variations)
+  - [Push Up](#push-up)
+  - [Dumbbell Bench Press](#dumbbell-bench-press)
+  - [Machine Chest Press](#machine-chest-press)
+  - [Dumbbell/Banded Shoulder Press](#dumbbellbanded-shoulder-press)
+  - [Chest Fly](#chest-fly)
+- [Row Exercise Variations](#row-exercise-variations)
+  - [Bent Over Row Dumbell/Banded](#bent-over-row-dumbellbanded)
+  - [Unilateral Dumbbell Bent Over Row](#unilateral-dumbbell-bent-over-row)
+- [Lunge Exercise Variations](#lunge-exercise-variations)
+  - [Lunge](#lunge)
+  - [Split Squat](#split-squat)
+
+<!-- /TOC -->
 
 ## Squat Variations
 
