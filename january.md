@@ -64,3 +64,4 @@ Beautifull jekyll code proberen te veranderen om de uiterlijk van de site naar m
 ## Training
 * Jump squats, 12x
 * Push Ups, 12x
+* Triceps Push Down, 1 schijf, 12x
