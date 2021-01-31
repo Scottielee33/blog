@@ -126,4 +126,4 @@ comments: true
 [jump squat]: assets/img/jump squat.gif
 [rear lat pulldown]: assets/img/rear lat pulldown.jpg
 [tricep pushdown]: assets/img/tricep pushdown.jpg
-[reverse grip trciep pushdown]: assets/img/reverse grip tricep pushdown.png
+[reverse grip tricep pushdown]: assets/img/reverse grip tricep pushdown.png
