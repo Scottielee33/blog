@@ -9,6 +9,7 @@ comments: true
 # Goals
 * At the end of february my goal is to be able to do a wide pull-up body weight
 * FInish with a body weight of 62kg
+* Drink everyday 2000ml of pure water, using an app what notifies me when to drink
 
 # Schedule
 **For the exercises look at the exercise page**  
