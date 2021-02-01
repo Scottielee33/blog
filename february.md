@@ -17,5 +17,5 @@ comments: true
 
 #### Notes
 
-Woensdag tijd bijhouden bij het rennen  
-De rest geoei zwaarte
+* Woensdag tijd bijhouden bij het rennen
+* De rest goeie zwaarte
