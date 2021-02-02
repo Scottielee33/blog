@@ -10,7 +10,7 @@ comments: true
 
 - [Training](#training)
   - [Day 1(Training)](#day-1training)
-    - [Notes](#notes)
+  - [Day 2(Training)](#day-2training)
 - [School](#school)
   - [Day 1(School)](#day-1school)
 
@@ -25,11 +25,19 @@ comments: true
 * Machine chest press, 4 schijven, 12x
 * Lat pulldown, 4 schijven, 12x
 
-#### Notes
+Notes:  
 
 * Woensdag tijd bijhouden bij het rennen
 * De rest goeie zwaarte
 
+### Day 2(Training)
+
+* Lunges 12x elk been
+* Machine fly's, 4 schijven
+* Unilateral dumbbell row, 6kg, 12x each hand
+
 ## School
 
 ### Day 1(School)
+
+Vandaag geleerd aan foundations of computer science, hierbij heb ik vooral induction geleerd
