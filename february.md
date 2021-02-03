@@ -11,6 +11,7 @@ comments: true
 - [Training](#training)
   - [Day 1(Training)](#day-1training)
   - [Day 2(Training)](#day-2training)
+  - [Day 3(Training)](#day-3training)
 - [School](#school)
   - [Day 1(School)](#day-1school)
 
@@ -35,6 +36,11 @@ Notes:
 * Lunges 12x elk been
 * Machine fly's, 4 schijven
 * Unilateral dumbbell row, 6kg, 12x each hand
+
+### Day 3(Training)
+* Squats met hangende gewicht in het midden, 12kg, 12x
+* Rear lat pulldown, 3 schijven, 12x
+* Bent over dumbbell row, 3kg elke hand, 12x
 
 ## School
 
