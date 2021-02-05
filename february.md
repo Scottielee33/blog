@@ -15,6 +15,7 @@ comments: true
   - [Day 5(Training)](#day-5training)
 - [School](#school)
   - [Day 1(School)](#day-1school)
+  - [Day 4(School)](#day-4school)
 
 <!-- /TOC -->
 
@@ -55,3 +56,7 @@ Notes:
 ### Day 1(School)
 
 Vandaag geleerd aan foundations of computer science, hierbij heb ik vooral induction geleerd
+
+### Day 4(School)
+
+- Databases hoorcollege gevolgd in de ochtend
