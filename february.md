@@ -12,6 +12,7 @@ comments: true
   - [Day 1(Training)](#day-1training)
   - [Day 2(Training)](#day-2training)
   - [Day 3(Training)](#day-3training)
+  - [Day 5(Training)](#day-5training)
 - [School](#school)
   - [Day 1(School)](#day-1school)
 
@@ -38,9 +39,16 @@ Notes:
 * Unilateral dumbbell row, 6kg, 12x each hand
 
 ### Day 3(Training)
+
 * Squats met hangende gewicht in het midden, 12kg, 12x
 * Rear lat pulldown, 3 schijven, 12x
 * Bent over dumbbell row, 3kg elke hand, 12x
+
+### Day 5(Training)
+
+* Wall-squat, 12x
+* Lat pulldown, 4 schijven 12x
+* Dumbbell benchpres, 3kg each hand, 12x
 
 ## School
 
