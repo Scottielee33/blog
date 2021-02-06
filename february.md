@@ -13,9 +13,11 @@ comments: true
   - [Day 2(Training)](#day-2training)
   - [Day 3(Training)](#day-3training)
   - [Day 5(Training)](#day-5training)
+  - [Day 6(Training)](#day-6training)
 - [School](#school)
   - [Day 1(School)](#day-1school)
   - [Day 4(School)](#day-4school)
+  - [Day 5(School)](#day-5school)
 
 <!-- /TOC -->
 
@@ -51,6 +53,10 @@ Notes:
 - Lat pulldown, 4 schijven 12x
 - Dumbbell benchpres, 3kg each hand, 12x
 
+### Day 6(Training)
+
+- Driekwart rondje zuiderpark in 10:15 minuten
+
 ## School
 
 ### Day 1(School)
@@ -60,3 +66,7 @@ Vandaag geleerd aan foundations of computer science, hierbij heb ik vooral induc
 ### Day 4(School)
 
 - Databases hoorcollege gevolgd in de ochtend
+
+### Day 5(School)
+
+- Algorithms hoorcollege 1a en 1b gevolgd
