@@ -18,6 +18,7 @@ comments: true
   - [Day 1(School)](#day-1school)
   - [Day 4(School)](#day-4school)
   - [Day 5(School)](#day-5school)
+  - [Day 6(School)](#day-6school)
 
 <!-- /TOC -->
 
@@ -70,3 +71,7 @@ Vandaag geleerd aan foundations of computer science, hierbij heb ik vooral induc
 ### Day 5(School)
 
 - Algorithms hoorcollege 1a en 1b gevolgd
+
+### Day 6(School)
+
+- Algorithms hoorcollege 1c en 1d gevolgd
