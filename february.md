@@ -14,6 +14,7 @@ comments: true
   - [Day 3(Training)](#day-3training)
   - [Day 5(Training)](#day-5training)
   - [Day 6(Training)](#day-6training)
+  - [Day 7(Training)](#day-7training)
 - [School](#school)
   - [Day 1(School)](#day-1school)
   - [Day 4(School)](#day-4school)
@@ -57,6 +58,12 @@ Notes:
 ### Day 6(Training)
 
 - Driekwart rondje zuiderpark in 10:15 minuten
+  
+### Day 7(Training)
+
+- Rear lat pulldown, 3 schijven, 12x
+- Goblet squad, ketllebell 10kg, 12x
+- Shoulderpress, 3kg each hand, 12x
 
 ## School
 
