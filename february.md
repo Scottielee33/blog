@@ -15,11 +15,13 @@ comments: true
   - [Day 5(Training)](#day-5training)
   - [Day 6(Training)](#day-6training)
   - [Day 7(Training)](#day-7training)
+  - [Day 9(Training)](#day-9training)
 - [School](#school)
   - [Day 1(School)](#day-1school)
   - [Day 4(School)](#day-4school)
   - [Day 5(School)](#day-5school)
   - [Day 6(School)](#day-6school)
+  - [Day 8(School)](#day-8school)
 
 <!-- /TOC -->
 
@@ -65,6 +67,12 @@ Notes:
 - Goblet squad, ketllebell 10kg, 12x
 - Shoulderpress, 3kg each hand, 12x
 
+### Day 9(Training)
+
+- Lat pulldown, 4 schijven, 12x
+- Wall-ball squat, 12x
+- Unilateral dumbbell row, 6kg, 12x elke hand
+
 ## School
 
 ### Day 1(School)
@@ -82,3 +90,7 @@ Vandaag geleerd aan foundations of computer science, hierbij heb ik vooral induc
 ### Day 6(School)
 
 - Algorithms hoorcollege 1c en 1d gevolgd
+
+### Day 8(School)
+
+- Algorithm opdracht georiënteerd
