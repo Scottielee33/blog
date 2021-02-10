@@ -16,6 +16,7 @@ comments: true
   - [Day 6(Training)](#day-6training)
   - [Day 7(Training)](#day-7training)
   - [Day 9(Training)](#day-9training)
+  - [Day 10(Training)](#day-10training)
 - [School](#school)
   - [Day 1(School)](#day-1school)
   - [Day 4(School)](#day-4school)
@@ -72,6 +73,12 @@ Notes:
 - Lat pulldown, 4 schijven, 12x
 - Wall-ball squat, 12x
 - Unilateral dumbbell row, 6kg, 12x elke hand
+
+### Day 10(Training)
+
+- Rear lat pulldown, 3 schiiven, 12x
+- Lunges, 3kg elke hand, 12x elk been
+- Bicep curls, 1 schijf, 12x
 
 ## School
 
