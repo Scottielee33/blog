@@ -23,6 +23,8 @@ comments: true
   - [Day 5(School)](#day-5school)
   - [Day 6(School)](#day-6school)
   - [Day 8(School)](#day-8school)
+  - [Day 9(School)](#day-9school)
+  - [Day 11(School)](#day-11school)
 
 <!-- /TOC -->
 
@@ -101,3 +103,11 @@ Vandaag geleerd aan foundations of computer science, hierbij heb ik vooral induc
 ### Day 8(School)
 
 - Algorithm opdracht georiënteerd
+
+### Day 9(School)
+
+- Algorithm werkcollege gedaan en alle opdrachten gemaakt
+
+### Day 11(School)
+
+- Oriëntatie informatica en economie les gevolgd, hierbij aantekeningen gemaakt in one note
