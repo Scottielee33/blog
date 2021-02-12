@@ -18,6 +18,7 @@ comments: true
   - [Day 9(Training)](#day-9training)
   - [Day 10(Training)](#day-10training)
   - [Day 11(Training)](#day-11training)
+  - [Day 12(Training)](#day-12training)
 - [School](#school)
   - [Day 1(School)](#day-1school)
   - [Day 4(School)](#day-4school)
@@ -82,10 +83,16 @@ Notes:
 - Rear lat pulldown, 3 schiiven, 12x
 - Lunges, 3kg elke hand, 12x elk been
 - Bicep curls, 1 schijf, 12x
-  
+
 ### Day 11(Training)
 
 - Rustdag, lezen van oefeningen
+
+### Day 12(Training)
+
+- Lat pulldown, 4 schijven, 12x
+- Lunges, 4kg elke hand, 12x
+- Chest press machine, 4 schijven, 12x
 
 ## School
 
