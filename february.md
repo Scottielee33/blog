@@ -19,6 +19,7 @@ comments: true
   - [Day 10(Training)](#day-10training)
   - [Day 11(Training)](#day-11training)
   - [Day 12(Training)](#day-12training)
+  - [Day 13(Training)](#day-13training)
 - [School](#school)
   - [Day 1(School)](#day-1school)
   - [Day 4(School)](#day-4school)
@@ -27,6 +28,7 @@ comments: true
   - [Day 8(School)](#day-8school)
   - [Day 9(School)](#day-9school)
   - [Day 11(School)](#day-11school)
+  - [Day 12(School)](#day-12school)
 
 <!-- /TOC -->
 
@@ -94,6 +96,12 @@ Notes:
 - Lunges, 4kg elke hand, 12x
 - Chest press machine, 4 schijven, 12x
 
+### Day 13(Training)
+
+- Rear lat pulldown, 4 schijven, 12x
+- Hanging Kettlebell squad, 14kg, 12x
+- Chest Fly, 5 schijven, 12x
+
 ## School
 
 ### Day 1(School)
@@ -123,3 +131,7 @@ Vandaag geleerd aan foundations of computer science, hierbij heb ik vooral induc
 ### Day 11(School)
 
 - Oriëntatie informatica en economie les gevolgd, hierbij aantekeningen gemaakt in one note
+
+### Day 12(School)
+
+- Databases les gevolgd en de werkcollege waarbij ik opgave heb gemaakt
