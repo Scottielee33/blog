@@ -21,6 +21,7 @@ comments: true
   - [Day 12(Training)](#day-12training)
   - [Day 13(Training)](#day-13training)
   - [Day 15(Training)](#day-15training)
+  - [Day 17(Training)](#day-17training)
 - [School](#school)
   - [Day 1(School)](#day-1school)
   - [Day 4(School)](#day-4school)
@@ -108,6 +109,12 @@ Notes:
 - Fly's, 5 schijven, 12x
 - Machine bicep curl, 2 schijven, 12x
 - Shoulder press, 3 kg elke hand, 12x
+
+### Day 17(Training)
+
+- Lat pulldown, 4 schijven, 12x
+- Gernot squat, 10kg, 12x
+- Bicep curls machine, 1 schijf, 12x
 
 ## School
 
