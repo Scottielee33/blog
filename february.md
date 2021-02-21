@@ -22,6 +22,7 @@ comments: true
   - [Day 13(Training)](#day-13training)
   - [Day 15(Training)](#day-15training)
   - [Day 17(Training)](#day-17training)
+  - [Day 21(Training)](#day-21training)
 - [School](#school)
   - [Day 1(School)](#day-1school)
   - [Day 4(School)](#day-4school)
@@ -115,6 +116,12 @@ Notes:
 - Lat pulldown, 4 schijven, 12x
 - Gernot squat, 10kg, 12x
 - Bicep curls machine, 1 schijf, 12x
+
+### Day 21(Training)
+
+- Rear latpulldown, 4 schijven, 12x
+- Bicep machine curles, 1 schijf, 12x
+- Wall-ball squat, 12x
 
 ## School
 
