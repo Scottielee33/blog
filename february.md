@@ -23,6 +23,7 @@ comments: true
   - [Day 15(Training)](#day-15training)
   - [Day 17(Training)](#day-17training)
   - [Day 21(Training)](#day-21training)
+  - [Day 22(Training)](#day-22training)
 - [School](#school)
   - [Day 1(School)](#day-1school)
   - [Day 4(School)](#day-4school)
@@ -123,6 +124,10 @@ Notes:
 - Bicep machine curles, 1 schijf, 12x
 - Wall-ball squat, 12x
 
+### Day 22(Training)
+
+- Groot rondje zuiderpark in 12:15 minuten
+  
 ## School
 
 ### Day 1(School)
