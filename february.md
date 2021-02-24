@@ -24,6 +24,7 @@ comments: true
   - [Day 17(Training)](#day-17training)
   - [Day 21(Training)](#day-21training)
   - [Day 22(Training)](#day-22training)
+  - [Day 23(Training)](#day-23training)
 - [School](#school)
   - [Day 1(School)](#day-1school)
   - [Day 4(School)](#day-4school)
@@ -127,7 +128,13 @@ Notes:
 ### Day 22(Training)
 
 - Groot rondje zuiderpark in 12:15 minuten
-  
+
+### Day 23(Training)
+
+- Leg extension Machine, 3 schijven, 12x
+- Lat pulldown, 5 schijven, 12x
+- Machine chest press, 5 schijven, 12x
+
 ## School
 
 ### Day 1(School)
