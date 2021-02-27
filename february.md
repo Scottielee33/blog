@@ -25,6 +25,8 @@ comments: true
   - [Day 21(Training)](#day-21training)
   - [Day 22(Training)](#day-22training)
   - [Day 23(Training)](#day-23training)
+  - [Day 26(Training)](#day-26training)
+  - [Day 27(Training)](#day-27training)
 - [School](#school)
   - [Day 1(School)](#day-1school)
   - [Day 4(School)](#day-4school)
@@ -134,6 +136,16 @@ Notes:
 - Leg extension Machine, 3 schijven, 12x
 - Lat pulldown, 5 schijven, 12x
 - Machine chest press, 5 schijven, 12x
+
+### Day 26(Training)
+
+- Groot rondje zuiderpark, 12 minuten over gedaan
+
+### Day 27(Training)
+
+- Rear lat pulldown, 4 schijven, 12x
+- chest press machine, 5 schijven, 12x
+- Lag extension machine, 3 schijven, 12x
 
 ## School
 
