@@ -12,9 +12,7 @@ navbar-links:
   Fitness:
     - Exercises: "exercises"
   Schedule:
-    - February: "schedule_february"
   Diary:
-    - February: "february"
 
 # Remove this parameter if you don't want an image in the navbar
 avatar: "assets/img/Avatar_Scottie.jpg"
