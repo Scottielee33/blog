@@ -39,9 +39,3 @@ hover-col: "#0B6317"
 footer-col: "#C2E3BF"
 footer-text-col: "#1C7825"
 footer-link-col: "#1C7825"
-
-collections:
-  events:
-    output: true
-    permalink: /events/:path/
-    title: Events
