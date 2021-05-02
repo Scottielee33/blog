@@ -12,8 +12,8 @@ x: done
 --->
 
 # Day 3
-* >. Been training
-* >. Database FD af
+* >:white_check_mark: Been training
+* >:white_check_mark: Database FD af
 * >. Hoorcollege organisatie en strategie
 * >. Algoritme hoorcolleges 2 weken achterstand inhalen
 
