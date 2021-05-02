@@ -12,7 +12,7 @@ comments: true
 --->
 
 # Day 3
-* ⬜ Been training
+* ⬜ Been training nike app
 * ⬜ Database FD af
 * ⬜ Hoorcollege organisatie en strategie
 * ⬜ Algoritme hoorcolleges 2 weken achterstand inhalen
