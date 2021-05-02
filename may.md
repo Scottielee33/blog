@@ -5,10 +5,11 @@ subtitle: Made by Scottie Lee
 tags: [agenda, training]
 comments: true
 ---
-
+<!---
 >: to do
 x: done
--: cancelled 
+-: cancelled
+--->
 
 # Day 3
 > Been training
