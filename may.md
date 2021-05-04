@@ -19,6 +19,6 @@ comments: true
 
 # Day 4
 - [ ] Abs training nike app
-- [ ] Database FD af
-- [ ] Hoorcollege organisatie en strategie
-- [ ] Werkcollege algoritme en datastructures
+- [x] Database FD af
+- [ ] Hoorcollege organisatie en strategie (blijkbaar was er vandaag geen college oops)
+- [x] Werkcollege algoritme en datastructures (gewerkt aan de nieuwe opdracht)
