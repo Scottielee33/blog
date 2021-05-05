@@ -24,6 +24,6 @@ comments: true
 - [x] Werkcollege algoritme en datastructures (gewerkt aan de nieuwe opdracht)
 
 # Day 5
-- [ ] Abs training nike app
-- [ ] Organisatie en strategie case maken
+- [x] Abs training nike app
+- [ ] Organisatie en strategie college 2 kijken
 - [ ] Algoritme calculate transaction maken
