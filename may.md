@@ -22,3 +22,8 @@ comments: true
 - [x] Database FD af
 - [ ] Hoorcollege organisatie en strategie (blijkbaar was er vandaag geen college oops)
 - [x] Werkcollege algoritme en datastructures (gewerkt aan de nieuwe opdracht)
+
+# Day 5
+- [ ] Abs training nike app
+- [ ] Organisatie en strategie case maken
+- [ ] Algoritme calculate transaction maken
