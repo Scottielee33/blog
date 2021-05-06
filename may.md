@@ -25,5 +25,11 @@ comments: true
 
 # Day 5
 - [x] Abs training nike app
-- [ ] Organisatie en strategie college 2 kijken
-- [ ] Algoritme calculate transaction maken
+- [x] Organisatie en strategie college 2 kijken
+- [ ] Algoritme calculate transaction maken (gekeken naar hoe het moet maar morgen 2 functies maken inclusief deze)
+
+# Day 6
+- [ ] Chest training (bench, lat pulldown and fly's)
+- [ ] Algoritme 2 functies afmaken niet recursieve
+- [ ] Organisatie en strategie case 1 maken
+- [ ] OIE Hoorcollege
