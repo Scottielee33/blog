@@ -29,7 +29,7 @@ comments: true
 - [ ] Algoritme calculate transaction maken (gekeken naar hoe het moet maar morgen 2 functies maken inclusief deze)
 
 # Day 6
-- [ ] Chest training (bench, lat pulldown and fly's)
+- [x] Chest training (bench, lat pulldown and fly's)
 - [ ] Algoritme 2 functies afmaken niet recursieve
 - [ ] Organisatie en strategie case 1 maken
-- [ ] OIE Hoorcollege
+- [x] OIE Hoorcollege
