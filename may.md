@@ -30,6 +30,10 @@ comments: true
 
 # Day 6
 - [x] Chest training (bench, lat pulldown and fly's)
-- [ ] Algoritme 2 functies afmaken niet recursieve
-- [ ] Organisatie en strategie case 1 maken
+- [x] Algoritme 2 functies afmaken niet recursieve
+- [x] Organisatie en strategie case 1 maken
 - [x] OIE Hoorcollege
+
+# Day 7
+- [x] Database transaction management leren
+- [x] Organisatie en strategie werkcollege
