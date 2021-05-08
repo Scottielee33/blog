@@ -37,3 +37,8 @@ comments: true
 # Day 7
 - [x] Database transaction management leren
 - [x] Organisatie en strategie werkcollege
+
+# Day 8
+- [ ] RA databas eopdracht
+- [ ] Organisatie en strategie tak gevonden met data
+- [ ] Trainen buik en benen met nike app
