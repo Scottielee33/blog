@@ -39,6 +39,11 @@ comments: true
 - [x] Organisatie en strategie werkcollege
 
 # Day 8
-- [ ] RA databas eopdracht
-- [ ] Organisatie en strategie tak gevonden met data
-- [ ] Trainen buik en benen met nike app
+- [x] RA databas eopdracht
+- [x] Organisatie en strategie tak gevonden met data
+- [x] Trainen buik en benen met nike app
+
+# Day 11
+- [x] Organisatie en strategie opdracht 1 afmaken
+- [ ] Organisatie en strategie college 3 kijken
+- [x] Algoritme bottom up af
