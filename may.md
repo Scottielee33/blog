@@ -45,5 +45,12 @@ comments: true
 
 # Day 11
 - [x] Organisatie en strategie opdracht 1 afmaken
-- [ ] Organisatie en strategie college 3 kijken
+- [x] Organisatie en strategie college 3 kijken
 - [x] Algoritme bottom up af
+
+# Day 12
+- [ ] Chest training
+- [ ] Organisatie en strategie college 3 en 4 kijken
+- [ ] Werkcollege organisatie en strategie
+- [ ] Transaction management leren
+- [ ] O en i samenvatten eerste college
