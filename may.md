@@ -49,8 +49,15 @@ comments: true
 - [x] Algoritme bottom up af
 
 # Day 12
-- [ ] Chest training
+- [x] Chest training
 - [ ] Organisatie en strategie college 3 en 4 kijken
-- [ ] Werkcollege organisatie en strategie
+- [x] Werkcollege organisatie en strategie
 - [ ] Transaction management leren
-- [ ] O en i samenvatten eerste college
+- [x] O en i samenvatten eerste college
+
+# Day 13
+- [ ] Oriënteren opdracht 2 organisatie en strategie
+- [ ] Oriëntatie informatica en economie college 1 en 2 saemvatten
+- [ ] Organisatie en strategie college 3 en 4 kijken
+- [ ] Transaction management database opdracht 2
+- [ ] Benen nike app
