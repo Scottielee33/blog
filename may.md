@@ -56,8 +56,19 @@ comments: true
 - [x] O en i samenvatten eerste college
 
 # Day 13
-- [ ] Oriënteren opdracht 2 organisatie en strategie
-- [ ] Oriëntatie informatica en economie college 1 en 2 saemvatten
-- [ ] Organisatie en strategie college 3 en 4 kijken
-- [ ] Transaction management database opdracht 2
-- [ ] Benen nike app
+- [x] Oriënteren opdracht 2 organisatie en strategie
+- [x] Oriëntatie informatica en economie college 1 en 2 saemvatten
+- [x] Organisatie en strategie college 3 en 4 kijken
+- [x] Transaction management database opdracht 2
+- [x] Benen nike app
+
+# Day 14
+- [x] Organisatie en strategie opdracht 2 oriënteren
+- [x] Oriëntatie informatica en economie college 3 en 4 leren
+- [x] Chest training
+
+# Day 15
+- [ ] Organisatie en strategie opdracht 2 eigen deel af
+- [ ] Oriëntatie informatica en economie college 5 en 6 leren
+- [ ] Databases opdrachten af
+- [ ] Bicep training
