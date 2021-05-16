@@ -76,5 +76,5 @@ comments: true
 # Day 16
 - [x] Chest Training
 - [ ] Database af
-- [ ] Organisatie en strategie opdracht af
-- [ ] Volgende 2 colleges OIE geleerd
+- [x] Organisatie en strategie opdracht af
+- [x] Volgende 2 colleges OIE geleerd
