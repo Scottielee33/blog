@@ -68,7 +68,13 @@ comments: true
 - [x] Chest training
 
 # Day 15
-- [ ] Organisatie en strategie opdracht 2 eigen deel af
-- [ ] Oriëntatie informatica en economie college 5 en 6 leren
-- [ ] Databases opdrachten af
-- [ ] Bicep training
+- [x] Organisatie en strategie opdracht 2 eigen deel af
+- [x] Oriëntatie informatica en economie college 5 en 6 leren
+- [x] Databases opdrachten af
+- [x] Bicep training
+
+# Day 16
+- [x] Chest Training
+- [ ] Database af
+- [ ] Organisatie en strategie opdracht af
+- [ ] Volgende 2 colleges OIE geleerd
