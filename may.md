@@ -75,6 +75,13 @@ comments: true
 
 # Day 16
 - [x] Chest Training
-- [ ] Database af
+- [ ] Database af (morgen af)
 - [x] Organisatie en strategie opdracht af
 - [x] Volgende 2 colleges OIE geleerd
+
+# Day 17
+- [x] Butt training nike app
+- [ ] Organisatie en strategie opdracht 2 inleveren
+- [ ] Organisatie en strategie college 5 kijken
+- [ ] OIE 2 lessen leren
+- [ ] Algorithms toets bekijken
