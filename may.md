@@ -81,7 +81,14 @@ comments: true
 
 # Day 17
 - [x] Butt training nike app
-- [ ] Organisatie en strategie opdracht 2 inleveren
-- [ ] Organisatie en strategie college 5 kijken
-- [ ] OIE 2 lessen leren
+- [x] Organisatie en strategie opdracht 2 inleveren
+- [x] Organisatie en strategie college 5 kijken
+- [x] OIE 2 lessen leren
+- [x] Algorithms toets bekijken
+
+# Day 19
+- [x] Chest training
+- [ ] Organisatie en strategie werkcollege
 - [ ] Algorithms toets bekijken
+- [ ] Databases opdracht af
+- [ ] OIE laatste colleges geleerd
