@@ -88,7 +88,13 @@ comments: true
 
 # Day 19
 - [x] Chest training
-- [ ] Organisatie en strategie werkcollege
-- [ ] Algorithms toets bekijken
-- [ ] Databases opdracht af
-- [ ] OIE laatste colleges geleerd
+- [x] Organisatie en strategie werkcollege
+- [x] Algorithms toets bekijken
+- [x] Databases opdracht af
+- [x] OIE laatste colleges geleerd
+
+# Day 21
+- [ ] Inleveren databases
+- [ ] Report algorithms
+- [ ] Lezen over rabobank voor OIE
+- [ ] Been training
