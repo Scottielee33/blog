@@ -94,7 +94,12 @@ comments: true
 - [x] OIE laatste colleges geleerd
 
 # Day 21
-- [ ] Inleveren databases
-- [ ] Report algorithms
-- [ ] Lezen over rabobank voor OIE
-- [ ] Been training
+- [x] Inleveren databases
+- [x] Report algorithms
+- [x] Lezen over rabobank voor OIE
+- [x] Been training
+
+# Day 22
+- [ ] OIE leren
+- [ ] rapport algorithms afmaken
+- [ ] Organisatie en strategie Planning maken
